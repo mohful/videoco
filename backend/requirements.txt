@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+pymysql
+boto3
+flask-cors
+python-jose[cryptography]
