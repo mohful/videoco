@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-appvideoco-dev-150744-authRole",
+      "UnauthRoleArn": "arn:aws:iam::480932786103:role/amplify-appvideoco-dev-150744-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::480932786103:role/amplify-appvideoco-dev-150744-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-appvideoco-dev-150744-deployment",
+      "UnauthRoleName": "amplify-appvideoco-dev-150744-unauthRole",
+      "StackName": "amplify-appvideoco-dev-150744",
+      "StackId": "arn:aws:cloudformation:us-east-1:480932786103:stack/amplify-appvideoco-dev-150744/2efea610-3c68-11ee-99ba-0a3580f0cfe5",
+      "AmplifyAppId": "d2wv2urzvhkay6"
+    },
+    "categories": {
+      "auth": {
+        "appvideocof59e274e": {}
+      }
+    }
+  }
+}
